@@ -1,6 +1,6 @@
 # Hamza React JS Resume Starter Pack and Digital Portfolio
 
-![Hamza React JS Portfolio Starter Pack](01.png?raw=true "Hamza React JS Portfolio Stater Pack ")
+![PAPA React JS Portfolio Starter Pack](01.png?raw=true "PAPA React JS Portfolio Stater Pack ")
 
 ### <a href="https://resume-portfolio-starter-pack.herokuapp.com">LIVE DEMO</a>
 
@@ -16,7 +16,7 @@ Firstly, you will need to download the latest version of Node by <a href="https:
 
 Next, you will need to run the following command in the Terminal to clone the repo onto your machine.
 
-```git clone https://github.com/hamzaali81/Resume-Portfolio-Starter-pack```
+```git clone https://github.com/sonnysangha/Resume-Portfolio-Starter-pack.git```
 
 ## 3. Install Dependancies
 

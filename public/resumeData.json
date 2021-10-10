@@ -54,7 +54,7 @@
         "company": "Hashing Dev",
         "title": "React Developer",
         "years": "May 2020",
-        "description": "My Project finance App."
+        "description": "frontend Developer"
       }
     ],
     "skills": [
@@ -120,43 +120,43 @@
       {
         "title": "Instagram Clone (React JS)",
         "category": "React App",
-        "image": "snapchat.jpg",
+        "image": "instagram.png",
         "url": "instagram-app-clone-b2a4f.web.app/"
       },
       {
         "title": "Amazon Clone (React JS + Redux + stripe)",
         "category": "React App",
-        "image": "snapchat.jpg",
+        "image": "amazon.png",
         "url": ""
       },
       {
         "title": "Gmail Clone (React JS)",
         "category": "React App",
-        "image": "gmail.jpg",
+        "image": "gmail.png",
         "url": "https://github.com/hamzaali81/Gmail-clone-React"
       },
       {
         "title": "LinkedIn Clone (React JS)",
         "category": "React App",
-        "image": "linkedin.jpg",
+        "image": "linkedin.png",
         "url": "https://linkedin-clone02.web.app/"
       },
       {
         "title": "Ecommerce App (Mern)",
         "category": "Ecommerce App",
-        "image": "linkedin.jpg",
+        "image": "ecommerce.png",
         "url": "https://github.com/hamzaali81/Ecommerce-App-Mern-Cloud"
       },
       {
         "title": "Bootcamp Projects 2020 (Jamstack Serverless + Cloud)",
         "category": "Jamstack",
-        "image": "linkedin.jpg",
+        "image": "jamstack.png",
         "url": "https://github.com/hamzaali81/Bootcamp2020-practice-23-08-21"
       },
       {
         "title": "Functional Api (Node JS+ Express + MongoDB + Mongoose + Third Party packages)",
         "category": "Api",
-        "image": "linkedin.jpg",
+        "image": "api.png",
         "url": "https://documenter.getpostman.com/view/10131382/UUy38mVu"
       }
     ]
@@ -164,8 +164,8 @@
   "testimonials": {
     "testimonials": [
       {
-        "text": "Don't be hasitate, Complete Response and Guidence of your project. Depending on the requirements of your project, I can use these cutting-edge technologies to make your project extremely successful and deliver it on time, in a cost effective manner.",
-        "user": "Hamza Ali"
+        "text": "Hamza is absolutely excellent, his depth of knowledge. I would definitely recommend",
+        "user": "Jorge Fouto"
       }
     ]
   }

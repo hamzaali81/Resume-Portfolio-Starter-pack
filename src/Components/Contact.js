@@ -103,7 +103,7 @@ const Contact = ({ data }) => {
               </div>
 
               <div>
-                <button onClick={submitForm} type="submit" className="submit">
+                <button onClick={submitForm} disabled type="submit" className="submit">
                   Submit
                 </button>
               </div>
